@@ -1,7 +1,7 @@
 <!-- 🌸 BANNER -->
 
 <div align="center">
-  <img src="./download.jpg" width="100%">
+  <img src="./download.jpg" width="50%">
 </div>
 
 <br>
