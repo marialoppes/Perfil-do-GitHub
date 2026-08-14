@@ -1,7 +1,7 @@
 <!-- 🌸 BANNER -->
 
 <div align="center">
-  <img src="https://pin.it/6jDJH7FAj" width="100%">
+  <img src="(https://pin.it/6jDJH7FAj)" width="100%">
 </div>
 
 <br>
@@ -110,7 +110,7 @@ Tenho especial interesse em entender **como os sistemas funcionam, como identifi
 
 <div align="center">
 
-<img src="(https://pin.it/7MgyaWhYX)" width="400px">
+<img src="[https://pin.it/7MgyaWhYX]" width="400px">
 
 <br><br>
 
