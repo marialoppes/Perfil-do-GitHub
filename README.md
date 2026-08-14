@@ -8,6 +8,8 @@
 
 <div align="center">
 
+#  Olá! Eu sou a Maria Lopes 👋
+
 
 ### 🎓 Estudante de Ciência da Computação • 🔍 Aspirante a QA • 🔐 Interessada em Cibersegurança
 
