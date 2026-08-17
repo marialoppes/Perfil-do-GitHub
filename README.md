@@ -143,7 +143,7 @@ Estou sempre aberta a aprender, trocar conhecimentos e conhecer pessoas que tamb
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD1E3?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](www.linkedin.com/in/maria-loppes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD1E3?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](www.linkedin.com/in/maria-loppes/)
 
 </div>
 
